@@ -1,3 +1,3 @@
 # hello-world
 test repository
-just getting a feel of how to use GitHub
+first time user just getting a feel of how to use GitHub
